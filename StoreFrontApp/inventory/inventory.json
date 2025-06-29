@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Sword",
+        "description": "A sharp steel sword for combat.",
+        "price": 100.0,
+        "quantity": 5,
+        "damage": 15
+    },
+    {
+        "name": "Axe",
+        "description": "A heavy battle axe with high damage.",
+        "price": 120.0,
+        "quantity": 3,
+        "damage": 20
+    },
+    {
+        "name": "Shield",
+        "description": "A sturdy wooden shield for protection.",
+        "price": 80.0,
+        "quantity": 4,
+        "defense": 10
+    },
+    {
+        "name": "Helmet",
+        "description": "A steel helmet that provides protection.",
+        "price": 60.0,
+        "quantity": 6,
+        "defense": 5
+    },
+    {
+        "name": "Health Potion",
+        "description": "Restores health over time.",
+        "price": 50.0,
+        "quantity": 10,
+        "healingAmount": 25
+    },
+    {
+        "name": "Magic Wand",
+        "description": "A wand that can cast magical spells.",
+        "price": 200.0,
+        "quantity": 2,
+        "damage": 50
+    },
+    {
+        "name": "Iron Shield",
+        "description": "A heavy iron shield offering excellent protection.",
+        "price": 150.0,
+        "quantity": 3,
+        "defense": 20
+    },
+    {
+        "name": "Bow",
+        "description": "A long-range weapon, perfect for precision shots.",
+        "price": 90.0,
+        "quantity": 8,
+        "damage": 30
+    },
+    {
+        "name": "Arrow Bundle",
+        "description": "A bundle of arrows for the bow.",
+        "price": 20.0,
+        "quantity": 50,
+        "damage": 10
+    },
+    {
+        "name": "Healing Salve",
+        "description": "A salve that heals a small amount of health.",
+        "price": 30.0,
+        "quantity": 15,
+        "healingAmount": 10
+    },
+    {
+        "name": "Dragon Scale Armor",
+        "description": "Armor crafted from dragon scales, offering unmatched defense.",
+        "price": 500.0,
+        "quantity": 1,
+        "defense": 50
+    },
+    {
+        "name": "Staff of Fire",
+        "description": "A magical staff that controls fire.",
+        "price": 250.0,
+        "quantity": 4,
+        "damage": 60
+    },
+    {
+        "name": "Plate Armor",
+        "description": "A full set of metal plate armor for maximum protection.",
+        "price": 300.0,
+        "quantity": 2,
+        "defense": 30
+    },
+    {
+        "name": "Elixir of Strength",
+        "description": "An elixir that temporarily boosts strength.",
+        "price": 120.0,
+        "quantity": 10,
+        "healingAmount": 40
+    },
+    {
+        "name": "Magic Ring",
+        "description": "A ring imbued with magical powers.",
+        "price": 150.0,
+        "quantity": 5,
+        "damage": 35
+    },
+    {
+        "name": "Phoenix Feather",
+        "description": "A rare feather from a phoenix that can restore life.",
+        "price": 400.0,
+        "quantity": 1,
+        "healingAmount": 100
+    },
+    {
+        "name": "Iron Dagger",
+        "description": "A small but sharp dagger, perfect for quick strikes.",
+        "price": 50.0,
+        "quantity": 12,
+        "damage": 10
+    },
+    {
+        "name": "Magic Potion",
+        "description": "A potion that replenishes mana for spellcasting.",
+        "price": 70.0,
+        "quantity": 8,
+        "healingAmount": 30
+    },
+    {
+        "name": "Crossbow",
+        "description": "A crossbow that offers powerful ranged attacks.",
+        "price": 180.0,
+        "quantity": 3,
+        "damage": 45
+    },
+    {
+        "name": "Crossbow Bolts",
+        "description": "A set of bolts for use with the crossbow.",
+        "price": 15.0,
+        "quantity": 50,
+        "damage": 12
+    },
+    {
+        "name": "Spiked Gauntlets",
+        "description": "Gauntlets with spikes for close combat.",
+        "price": 75.0,
+        "quantity": 5,
+        "damage": 12
+    },
+    {
+        "name": "Elven Boots",
+        "description": "Lightweight boots that enhance agility.",
+        "price": 40.0,
+        "quantity": 10,
+        "defense": 3
+    },
+    {
+        "name": "Ring of Protection",
+        "description": "A magical ring that increases defense.",
+        "price": 100.0,
+        "quantity": 4,
+        "defense": 15
+    },
+    {
+        "name": "Giant's Club",
+        "description": "A massive club wielded by giants.",
+        "price": 250.0,
+        "quantity": 1,
+        "damage": 80
+    },
+    {
+        "name": "Potion of Invisibility",
+        "description": "A potion that grants temporary invisibility.",
+        "price": 150.0,
+        "quantity": 3,
+        "healingAmount": 0
+    }
+]
